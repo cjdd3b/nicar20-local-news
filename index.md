@@ -1,163 +1,141 @@
 
+## **Jeff South (and his data journalism class)**
+### **[Virginia Commonwealth University Capital News Service](https://vcucns.com/)**
+
+**Contact**: jcsouth@vcu.edu
+
+Students in my data journalism class used this tool the day after the first Muslim was elected to the Virginia Senate. During their election night coverage, the students, Hannah Eason and Sravan Gannavarapu, noticed a lot of racist and xenophobic comments posted to news stories on Facebook about Ghazala Hashmi's victory in the Senate District 10 race. Hannah and Sravan wanted to analyze the comments to quantify the amount of vitriol online. They found that ExportComments.com can generate a CSV file of Facebook comments (at the time, $5 for three days of unlimited use). Hannah and Sravan downloaded about 3,000 comments posted to five Facebook articles about Hashmi's election and analyzed the data in Excel. The resulting story was distributed the by [AP](http://bit.ly/hashmi-ap) and published by more than 800 news outlets around the world, including [The Washington Post](http://bit.ly/hashmi-wapo). The students also put all [3,000 comments online](http://bit.ly/hashmi-comments) and created [data visualizations](http://bit.ly/hashmi-charts).
+
+ * [Slides](http://bit.ly/nicar-vcu)
 
 ---
 
-## **Tyler Dukes**
-### **[WRAL News](https://www.wral.com/)**
+## **Matt Kiefer**
+### **[Stanford University](https://www.stanford.edu)**
 
-**Contact**: tdukes@wral.com
+**Contact**: mkiefer@stanford.edu
 
-After a law changing the rules for early voting, we wanted to see which voters were affected the most by the changes. We used voter data to calculate the changes in the distance between their closest voting location in 2014 vs. 2018 and found that rural voters were disproportionately impacted by the changes, which were small. We then teamed with ProPublica to map the data.
+[FOIAmail](https://github.com/bettergov/foiamail), an open-source framework for automating public records requests, which helps leverage local-level data collection into large-scale investigations.
 
-  * [Early voting changes hit NC rural voters hardest, analysis shows. But will it matter in 2018?](https://www.wral.com/early-voting-changes-hit-nc-rural-voters-hardest-but-will-it-matter-in-2018-/17959224/)
-  * [Full methodology: 2018 Early voting analysis](https://www.wral.com/methodology-2018-early-voting-analysis/17960039/)
-  * [How North Carolina’s Early Voting Changes Affect Voters](https://projects.propublica.org/graphics/nc-early-voting-map)
-
-  ---
-
-## **Andrea Suozzo**
-### **[Seven Days (Vermont)](https://www.sevendaysvt.com/)**
-
-**Contact**: andrea@sevendaysvt.com
-
-I built the [Vermont Nonprofit Navigator](https://nonprofits.sevendaysvt.com) to collect and present 990 data on Vermont's nonprofits. It started out as an internal tool, but as we were reporting out a series of stories using the data we'd discovered, we realized that making that data public would allow other people to dig in and learn about Vermont's nonprofit economy, too.
-
-Here's the [series of stories](https://www.sevendaysvt.com/vermont/nonprofit-series/Category?oid=16918948) we reported using the database.
+ * [Slides](https://docs.google.com/presentation/d/1sa66WToJZHxHStZ5_mZhoUmAMVzeazIpoBS37GBOUXo/edit?usp=sharing)
 
 ---
 
-## **Sandra Fish**
-### **Independent data journalist**
+## **David Raynor**
+### **[The News & Observer](https://www.newsobserver.com/)**
 
-**Contact**: fishnette@gmail.com
+**Contact**: draynor@newsobserver.com
 
-   * [Follow the Message](http://ftm.copolitics.co/), collecting and analyzing campaign literature.
-   * [The nastiest Colorado campaign attacks filling your mailbox — and the truth behind them](https://coloradosun.com/2018/10/26/negative-mailers-colorado-fact-check/)
+Two stories with the same idea: compare costs of grocery store items and cold/flu items at area retail stores. After gathering the data, we created interactive apps that let users compare prices. 
+
+  * [Which grocery stores have the Triangle’s best prices? We visited 16 chains to find out.](https://www.newsobserver.com/news/business/article236240118.html)
+  * [How much does your cold cost? We checked the prices at local drug and grocery stores.](https://www.newsobserver.com/news/business/article239237413.html)
+
+---
+
+## **Yanqi Xu**
+### **[Investigative Reporting Workshop](https://investigativereportingworkshop.org/)**
+
+**Contact**: yanqi@irworkshop.org
+
+I'd like to present the [Accountability Project](https://publicaccountability.org/), a one-stop resource for newsrooms to track money in politics and delineate networks of interests. The project synthesizes public records including campaign finance, lobbying, salaries, properties, etc. and make it easy to download and share the data. I will demo our search portal to present quick searches at the conference and show local newsrooms can use the feature both for quick-turn stories and in-depth watchdog reporting. It is a very quick way for newsrooms to find their local politicians' interests and connections from out-of-state without having to navigate data silos that are foreign to them.
+
+ * [Slides](https://tiny.cc/irw_NICAR20)
 
 ---
 
 ## **Dave Sheingold**
-### **[NorthJersey.com / The Record](https://www.northjersey.com/)**
+### **[Freelancer, formerly of the Bergen Record in New Jersey](https://twitter.com/dave_sheingold)**
 
-**Contact**: sheingold@northjersey.com
+**Contact**: davesdatahut@yahoo.com
 
-Once a week, [we ran a short story](https://www.northjersey.com/staff/10056920/dave-sheingold/) summing up some topical or quirky bit of data analysis, along with some graphics using a free online service (operative word being free). It turned out to be a great way to use data on a regular basis in a shrinking newsroom where there aren't always reporters available to turn data analysis into more in-depth stories.
+Crashes, taxes, cyber-crime and ....bearded dragons? This presentation will show a series of quick hit data dives with interactive graphics, ranging from the serious to the amusing, that spotlight narrow pieces of data and allow someone in a small newsroom to have a regular data presence outside of long-term projects. This is the opposite of what is shown in a lot of the panels, giving examples of what can be done with weekly data presentations instead of a big project...something manageable and valuable in a small operation. 
 
----
-
-## **Disha Raychaudhuri and Blake Nelson**
-### **[NJ Advance Media](https://www.nj.com/)**
-
-**Contact**: draychaudhuri@njadvancemedia.com
-
-   * [The Force Report](http://force.nj.com/) is the most comprehensive statewide database of police use of force in the US, made from documents acquired through 506 FOI requests.
+  * [School bus crash deaths and serious injuries rare in NJ and USA](https://www.northjersey.com/story/news/transportation/2018/05/21/school-bus-crash-deaths-and-serious-injuries-rare-nj-and-usa/630482002/)
+  * [New Jersey on pace to regain spot as state least interested in buying guns](https://www.northjersey.com/story/news/new-jersey/2018/12/27/nj-reclaim-mantle-state-least-interested-buying-guns/2379220002/)
+  * [More New Jersey residents are falling for online scams](https://www.northjersey.com/story/news/crime/2018/10/26/internet-cyber-crime-nails-more-victims-causes-soaring-losses/1744368002/)
+  * [Bearded dragons, parrots, ball pythons top list of New Jersey's exotic pets](https://www.northjersey.com/story/news/new-jersey/2018/09/06/bearded-dragons-ferrets-ball-pythons-lead-list-exotic-licenses/1173163002/)
 
 ---
 
-## **Lisa Pickoff-White**
-### **[KQED](https://www.kqed.org/)**
+## **Eric Dietrich**
+### **[Montana Free Press](https://montanafreepress.org/)**
 
-**Contact**: lpickoffwhite@kqed.org
+**Contact**: edietrich@montanafreepress.org
 
-   * ['My World Was Burning': The North Bay Fires and What Went Wrong](https://www.kqed.org/news/11654027/my-world-was-burning-the-north-bay-fires-and-what-went-wrong)
+While covering the Montana statehouse in 2019, I sat down and adapted OpenStates code to produce a [news app tabulating lawmaker voting records](https://apps.montanafreepress.org/track-mtleg-2019/).
 
----
-
-## **Jim Neff**
-### **[The Philadelphia Inquirer](https://www.philly.com/)**
-
-**Contact**: JNeff@philly.com
-
-To provide parents with access to information on the physical state of more than 200 public schools, the Philadelphia Inquirer created [School Checkup](http://data.philly.com/toxic-city/lead-poisoning-paint-asbestos-mold-asthma-philadelphia-schools-map-search-tool.html#/), a web tool that blends six databases of more than 250,000 room-by-room environmental records. School Checkup breaks out four building conditions known to impact a child’s health: rampant mold, deteriorated asbestos, flaking and peeling lead paint, and drinking water containing high levels of lead. The user-friendly tool enables parents, for the first time, to look up conditions at their child’s school, drilling down to the classroom level. It is an essential part of the paper’s [“Toxic City: Sick Schools”](http://media.philly.com/storage/special_projects/toxic_city_landing_page.html) investigation. At one school, parents, teachers and about 75 students who learned of problems with their building from School Checkup became so concerned that they held classes outdoors in a “Toxic Teach Out,” to bring attention to their unhealthy conditions.
+The process produced a tip that let me investigate how a right-wing website was [tracking votes in an effort to influence GOP lawmakers](https://montanafreepress.org/2019/04/01/this-website-ranks-republican-lawmakers-on-party-loyalty-is-that-good-for-montana/) and also set the stage for a story where I explained how a Republican-controlled legislature passed several [high-profile bills opposed by the official GOP leadership](https://montanafreepress.org/2019/05/03/when-solutions-caucus-republicans-in-the-2019-legislature-did-and-didnt-vote-with-democrats/).
 
 ---
 
-## **Mike Stucka**
-### **[The Palm Beach Post](https://www.palmbeachpost.com/)**
+## **Ashlyn O'Hara**
+### **[University of Missouri](https://www.missouri.edu)**
 
-**Contact**: stucka@gmail.com
+**Contact**: ashlynohara@mail.missouri.edu
 
-We found that Florida's clemency system was wildly arbitrary, varying by several orders of magnitude by each governor and, under the then-current governor, showing significantly flawed racial outcomes and political bias. None of this data had previously been reported, nor was it in a major lawsuit. We blended a woefully incomplete little PDF with about six sets of voter data, two prison data sets and about 500,000 scrapes to find out that out.
-
-  * [Florida felon voting rights: Who got theirs back under Scott?
-](https://www.palmbeachpost.com/news/20181025/florida-felon-voting-rights-who-got-theirs-back-under-scott)
-  * [Felon voting: How The Post found the key Gov. Rick Scott refused to provide](https://www.palmbeachpost.com/news/20181025/felon-voting-how-post-found-key-gov-rick-scott-refused-to-provide)
+[Deeptector.io](http://deeptector.io/) a solution for detecting Deepfakes
 
 ---
 
-## **Valerie Ouellet**
-### **[CBC News](https://www.cbc.ca/news)**
+## **Andrea Suozzo**
+### **[Seven Days newspaper](https://www.sevendaysvt.com/)**
 
-**Contact**: valerie.ouellet@cbc.ca 
+**Contact**: andrea@sevendaysvt.com
 
-My talented colleague William Wolfe-Wylie and I scraped thousands of tickets to hockey/baseball games and popular concerts for months to reveal exactly how scalpers operated in our city (Toronto, Canada). Through Python/SQL data collection and analysis, we then showed outraged fans how websites like Ticketmaster were controlling stocks and prices to double dip into profits. High impact investigation that can be reproduced in any city with sports fan! Also a great opportunity to discuss the ethics and value of stealth web scraping.  
+The federal government posts all U.S. nursing home inspection results online in a searchable database. For state-regulated homes, Vermont's Division of Licensing and Protection posts only poorly scanned, sometimes partially handwritten pdfs in a hard-to-find spot that require additional information to decode (example [here](https://pbs.twimg.com/media/EKzoGEWWsAAkVip?format=png&name=small)). I scraped those inspections, but when we asked for a full list it turned out that nearly 20 percent of the reports generated between 2014 and late 2019 had never been uploaded. Once we had all those documents, they formed the foundation for an investigative collaboration between Seven Days and Vermont Public Radio and a searchable database of Vermont homes, which I built:
 
-  * [Blue Jays earn cut from every ticket scalped on StubHub](https://www.cbc.ca/news/business/tickets-scalping-blue-jays-1.4597286) 
-  * [Fans shut out: Only 96 seats available for general public for Leafs first home playoff game
-](https://www.cbc.ca/news/canada/toronto/leafs-tickets-1.4613313)
-  * [New Ontario government puts brakes on anti-scalping law](https://www.cbc.ca/news/canada/toronto/anti-scalping-tickets-law-ontario-1.4732867)
-  * ['I'm getting ripped off': A look inside Ticketmaster's price-hiking bag of tricks](https://www.cbc.ca/news/business/ticketmaster-prices-scalpers-bruno-mars-1.4826914)
-  * [How we did it (slides)](https://docs.google.com/presentation/d/1S7lYVGWY8Ck-VUhGzHCLCh-XEWWrNk_GikNwHn5vMbk/edit?ts=5c8048f2)
+ * [Vermont Eldercare Navigator](https://eldercare.sevendaysvt.com/)
 
 ---
 
-## **Emily Zentner**
-### **[Capital Public Radio](https://www.kqed.org/)**
+## **Lucia Walinchus**
+### **[Eye on Ohio, the Ohio Center for Investigative Journalism](https://eyeonohio.com/)**
 
-**Contact**: emily.zentner@capradio.org
+**Contact**: Lucia@eyeonohio.com
 
-   * [A history of California wildfires](http://projects.capradio.org/california-fire-history/#6/38.58/-121.49)
-
----
-
-## **Irena Fischer-Hwang**
-### **[Big Local News (Stanford University)](https://jdi.stanford.edu/)**
-
-**Contact**: ihwang@stanford.edu
-
-This story comes from a Stanford University class affiliated with the Big Local News project. We collected, processed and analyzed data on the cost of wildfires across California and the U.S. to produce a report about the role that wildland development plays in rising wildfire costs in California. We have produced two versions of a story recipe: one featuring Python code (github link) and one using Workbench (workbenchdata link), a new data analysis tool produced by collaborators at Columbia University that is intended to help anyone analyze data for stories, even those without coding experience.
-
-  * [Wildland Development Escalates California Fire Costs](https://www.kqed.org/news/11713393/wildland-development-escalates-california-fire-costs)
-  * [Story recipe 1](https://github.com/ihwang/California-Wildfires)
-  * [Story recipe 2](https://app.workbenchdata.com/workflows/9889/)
+ * [Slides](https://tinyurl.com/NICAR2020)
+ * [Investigation: Blacks, black neighborhoods most likely to be traffic stop targets in Ohio’s 3 biggest cities](https://eyeonohio.com/investigation-blacks-black-neighborhoods-most-likely-to-be-traffic-stop-targets-in-ohios-3-biggest-cities/)
+ * [How Much are you Overpaying in Property Tax?](https://eyeonohio.com/property-tax-loophole/)
+ * [Taxpayers Lose Out on at Least $11.25 Million, Homeowners and Banks Lose up to $80 Million in Little-known Foreclosure Process That Skips Sheriff’s Sales](https://eyeonohio.com/taxpayers-lose-out-on-at-least-11-25-million-homeowners-and-banks-lose-up-to-80-million-in-little-known-foreclosure-process-that-skips-sheriffs-sales/)
 
 ---
 
-## **Dan Keemahill**
-### **[Austin American-Statesman](https://www.statesman.com/)**
+## **Isao Matsunami**
+### **[Chunichi/Tokyo Shimbun](https://www.chunichi.co.jp/)**
 
-**Contact**: dkeemahill@statesman.com
+**Contact**: isao_ma@on.rim.or.jp
 
-This yearlong investigation into safety in Texas day cares was built with cookies so that a reader could enter at any story and not be lost, with a paragraph of key findings visible on the reader's entry point and hidden thereafter. The aim was to make Unwatched accessible, knowing that not every reader would start at the beginning.
+This is a direct inspiration from WRAL report, showcased at NICAR2019. By intense calculation of drive time to voting station, we showed that [costly makeshift early-voting stations did not improve overall turnout](https://www.chunichi.co.jp/ee/feature/data/early_voting_stations_en.html), implying they just replace Sunday vote.
 
-  * [Unwatched: How a lack of state oversight leaves children in day cares across Texas](http://gatehousenews.com/unwatched/overview/site/statesman.com/)
-
----
-
-## **Ryan Murphy**
-### **[Texas Tribune](https://www.texastribune.org/)**
-
-**Contact**: rmurphy@texastribune.org
-
-These projects all combine data with creative web development to help readers learn more about Texas. For each one, we obtained public data and parsed it to make sure we understood the story it was telling. Then, we used web development tools to build a narrative around the data — making easy points of entry for readers both in and out of Texas. Readers in the state can opt to let some of the pages geolocate them or enter an address for more detailed information.
-
-Stories and graphics directly related to our goal this year of personalizing content for Texans, no matter where they live: 
-
-  * 8/15: [Texas school districts receive first official A-F grades. Look up how your district did here.](https://www.texastribune.org/2018/08/15/texas-school-districts-receive-first-a-f-grades/)
-  * 10/2: [Here’s what Texas voters should know for the 2018 midterms](https://apps.texastribune.org/features/2018/texas-midterm-election-ballot-tool/?_ga=2.16893501.546718467.1542130099-1181281758.1523025346) (Ballot lookup tool with maps, voter guide. Updated for each step of the election process.)
-  * 10/5: [How to know if you’re spending too much on housing in Texas](https://apps.texastribune.org/features/2018/housing-costs-texas-are-you-spending-too-much/?_ga=2.154239676.546718467.1542130099-1181281758.1523025346)
-  * 11/6: [See the results of the Texas 2018 midterm election here. Find results for where you live](https://apps.texastribune.org/elections/2018/texas-midterm-election-results/?_ga=2.16893501.546718467.1542130099-1181281758.1523025346)
-  * 11/7: [Look up Texas midterm turnout in your county against historic numbers](https://www.texastribune.org/2018/11/07/texas-election-results-turnout-county-look-up/)
-
-Also: Since June of 2018 we've been continuously tracking how many migrant children are being housed in shelters in Texas. (Although we have participated in AP's aggregation of this data, we have produced this independently of that effort.)
-
-  * [Even after Tornillo tent city's closure, more than 5,600 migrant kids are living in Texas shelters](https://apps.texastribune.org/features/2018/texas-migrant-children-shelters/)
+ * [Slides](https://docs.google.com/presentation/d/15xxrI8uPgyOPhfP4qsCQ37E1K8mgKL3nkz3SPsR1IPo/edit?ts=5e5c9c61)
 
 ---
 
-## **Brent Hargrave**
-### **[Lenfest Local Lab](https://www.lenfestinstitute.org)**
+## **Michelle Breidenbach**
+### **[The Post-Standard/Syracuse.com](https://www.syracuse.com/poststandard/)**
 
-**Contact**: brent@brent.is
+**Contact**: mbreidenbach@syracuse.com
 
-   * [Introducing HERE: A location-aware app that puts you at the center of local news discovery](https://medium.com/the-lenfest-local-lab/introducing-here-a-location-aware-app-that-puts-you-at-the-center-of-local-news-discovery-bfab588d2feb)
+We published a [series of stories](
+https://www.syracuse.com/news/2020/01/see-which-syracuse-streets-won-lost-in-citys-quest-for-fairer-tax-assessments-map.html) that showed Syracuse's system of assessing home values is benefiting the rich and overtaxing the poor. The city responded quickly by changing more home values than ever in its annual adjustment. The latest story maps those increases and decreases so people can compare neighborhoods and take their own arguments to City Hall. Grievance hearings are happening now. 
+
+To do this project, we used simple google mapping tools and we used excel to analyze the city's assessment rolls. We also used Caspio to create a searchable database.
+
+Here are some other stories about the issue:
+
+  * [NY state gives condo owners millions in property tax breaks; the rest of us pay for it](https://www.syracuse.com/state/2018/05/big_property_tax_break_for_ny_condos_leaves_neighbors_to_pick_up_the_bill.html)
+  * [3 vending machines saved a builder $3 million in property taxes; a NY law exploited](https://www.syracuse.com/news/2018/05/3_vending_machines_saved_a_builder_3_million_in_property_taxes_a_ny_law_exploite.html)
+  * [New York state sends STAR tax relief checks to people who owe property taxes](https://www.syracuse.com/news/2019/11/new-york-state-sends-star-tax-relief-checks-to-people-who-owe-property-taxes.html)
+
+---
+
+## **Adam Richter**
+### **[Reading Eagle](https://www.readingeagle.com/)**
+
+**Contact**: arichter@readingeagle.com
+
+Using Census and tax roll data, as well as statistics from Princeton's Eviction Lab, I wrote a series of articles that looked into why Reading Pa., where real estate is inexpensive, has such a high rate of rentals and, in particular, evictions. The series, called "City of Renting," can be found by clicking on the link below.
+
+  * [City of Renting: Why Reading's homeownership rate has fallen since 1970](https://www.readingeagle.com/news/housing/city-of-renting-why-reading-s-homeownership-rate-has-fallen/article_507a18cb-6371-5e9e-a580-327a1958e986.html)
+  * [Slides](http://bit.ly/cityofrentingslides)
