@@ -49,10 +49,16 @@ I'd like to present the [Accountability Project](https://publicaccountability.or
 
 **Contact**: davesdatahut@yahoo.com
 
-Crashes, taxes, cyber-crime and ....bearded dragons? This presentation will show a series of quick hit data dives with interactive graphics, ranging from the serious to the amusing, that spotlight narrow pieces of data and allow someone in a small newsroom to have a regular data presence outside of long-term projects. This is the opposite of what is shown in a lot of the panels, giving examples of what can be done with weekly data presentations instead of a big project...something manageable and valuable in a small operation. 
+In a small newsroom, what are you always? Strapped for time? That big project? Sorry, gotta wait on that. Data for the weekend enterprise. Ummm, maybe. Maybe not, too much else to do. But there are still some smart and interesting things you can do to keep a data analysis presence in your newspaper or media web site. Some key off news. Some don’t. Some connect to terrible tragedies. Some connect to pets and debts.
+
+The common thread is they are quick hits you can do in a day or two, with some simple graphics. Nothing about this is elegant. But it still can provide creative, interesting and unique takes on issues, with a little bit of reader interactivity thrown in.
+
+Often, you can key off news events for a quick data turnaround in advance of that deeper dive for a weekender or longer-term story.
 
   * [School bus crash deaths and serious injuries rare in NJ and USA](https://www.northjersey.com/story/news/transportation/2018/05/21/school-bus-crash-deaths-and-serious-injuries-rare-nj-and-usa/630482002/)
-  * [New Jersey on pace to regain spot as state least interested in buying guns](https://www.northjersey.com/story/news/new-jersey/2018/12/27/nj-reclaim-mantle-state-least-interested-buying-guns/2379220002/)
+  * [New Jersey lottery sells the most in the state's poorest neighborhoods](https://www.northjersey.com/story/news/2018/07/24/lottery-hopes-run-highest-new-jerseys-poorest-neighborhoods/828397002/)
+  * [Where NJ homeowners will take a hit from the tax reform bill](https://www.northjersey.com/story/news/2017/12/20/where-nj-homeowners-take-hit-tax-reform-bill/970812001/)
+  * [New Jersey leads nation in young adults living with parents, census says](https://www.northjersey.com/story/news/2018/11/29/nj-leads-nation-young-adults-living-parents-us-census-says/2027152002/)
   * [More New Jersey residents are falling for online scams](https://www.northjersey.com/story/news/crime/2018/10/26/internet-cyber-crime-nails-more-victims-causes-soaring-losses/1744368002/)
   * [Bearded dragons, parrots, ball pythons top list of New Jersey's exotic pets](https://www.northjersey.com/story/news/new-jersey/2018/09/06/bearded-dragons-ferrets-ball-pythons-lead-list-exotic-licenses/1173163002/)
 
